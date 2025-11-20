@@ -1,22 +1,61 @@
-file_id,label,recovery_referral,initial_outreach,redirect_platform,primary_scammer,referrer,date_collected,word_count,source_platform,impersonating
-scam01,scam,yes,reddit,telegram,trusttechhub,gamechaseralphio,2025-11,100,reddit,recovery expert
-scam02,scam,yes,email,email,imf.au.org@gmail.com,1imfoffice.org@gmail.com,2025-11,216,scamwarners,international monetary fund
-scam03,scam,yes,email,email,brotherhoodilluminati485@gmail.com,illuminati brotherhood,2025-11,113,reddit,illuminati
-scam04,scam,no,website,,wealth-assistancecenter.com,,2025-11,49,reddit,recovery expert
-scam05,scam,no,email,,"www.fbiworld.gov_usa@hotmail.com,  centralb-of.ng@live.com",,2025-11,2147,scamwarners,"fbi, central bank of nigeria"
-scam06,scam,yes,email,email,Cryptoassetsrecovery@protonmail.com,joyokomino@lagosstate.gov.ng,2025-11,216,scamwarners,recovery expert
-scam07,scam,no,email,email,micheal@lostrecovered.com,,2025-11,302,scamwarners,MetaTrader Support Team
+file_id,scam,recovery_referral,initial_outreach,redirect_platform,primary_scammer,referrer,date_collected,word_count,source_platform,impersonating
+scam01,scam,yes,reddit,telegram,trusttechhub,gamechaseralphio,2025-11,100,reddit,Recovery expert
+scam02,scam,yes,email,email,imf.au.org@gmail.com,1imfoffice.org@gmail.com,2025-11,216,scamwarners,International monetary fund
+scam03,scam,yes,email,email,brotherhoodilluminati485@gmail.com,illuminati brotherhood,2025-11,113,reddit,Recovery expert
+scam04,scam,no,website,,wealth-assistancecenter.com,,2025-11,49,reddit,Recovery expert
+scam05,scam,no,email,,"www.fbiworld.gov_usa@hotmail.com,  centralb-of.ng@live.com",,2025-11,2147,scamwarners,"FBI, Central Bank of Nigeria"
+scam06,scam,yes,email,email,Cryptoassetsrecovery@protonmail.com,joyokomino@lagosstate.gov.ng,2025-11,216,scamwarners,Crypto recovery expert
+scam07,scam,no,email,,micheal@lostrecovered.com,,2025-11,302,scamwarners,MetaTrader Support Team
 scam08,scam,no,email,email,ubabankplcnig55@gmail.com,https://www.westernunion.com/ng/en/home.html,2025-11,733,scamwarners,Uba Bank
-scam09,scam,no,email,email,mr.johnsinger01@gmail.com,,2025-11,,scamwarners,UN secretary
-scam10,scam,,,,,,2025-11,,,
-scam11,scam,,,,,,2025-11,,,
-scam12,scam,,,,,,2025-11,,,
-scam13,scam,,,,,,2025-11,,,
-scam14,scam,,,,,,2025-11,,,
-scam15,scam,,,,,,2025-11,,,
-scam16,scam,,,,,,2025-11,,,
-scam17,scam,,,,,,2025-11,,,
-scam18,scam,,,,,,2025-11,,,
-scam19,scam,,,,,,2025-11,,,
-scam19,scam,,,,,,2025-11,,,
-scam20,scam,,,,,,2025-11,,,
+scam09,scam,no,email,,mr.johnsinger01@gmail.com,,2025-11,592,scamwarners,UN secretary
+scam10,scam,no,instagram,,Cryptohunters,,2025-11,51,reddit,bitcoin recovery expert
+scam11,scam,no,instagram,,Hybrid_Bypass,,2025-11,27,reddit,Recovery expert
+scam12,scam,yes,reddit,reddit,Nics_tools,Worried _Weakness_251,2025-11,72,reddit,Recovery expert
+scam13,scam,yes,reddit,reddit,divon_fix,Additional-Expert120,2025-11,45,reddit,Recovery expert
+scam14,scam,yes,reddit,email,Brucecybercom@protonmail.com,Prize-Spend,2025-11,94,reddit,cybersecurity specialist
+scam15,scam,no,reddit,,Badri313binary,,2025-11,32,reddit,Recovery expert
+scam16,scam,yes,downdetector,telegram,GANDRATECH,Alexander Mark,2025-11,41,reddit,Recovery expert
+scam17,scam,yes,downdetector,telegram,~TECHRESPOND~,Osborn G Davies,2025-11,132,reddit,Recovery expert
+scam18,scam,yes,downdetector,telegram,^^^BELINCHORD…,Kimberly,2025-11,115,reddit,Recovery expert
+scam19,scam,no,email,,barbar6u9deso@netvigator.com,,2025-11,131,scamwarners,"UN, international monetary fund"
+scam20,scam,no,email,,8201543Wgdjjsigs8787@northstate.ne,,2025-11,333,scamwarners,"UN, international monetary fund"
+scam21,scam,no,email,,mscarmanlapointe202@outlook.com,,2025-11,183,scamwarners,"UN, international monetary fund"
+scam22,scam,no,email,,support@dnb-online.com,,2025-11,78,scamwarners,DNB bank
+scam23,scam,no,email,,www.fbiworld.gov_usa@hotmail.com,,2025-11,1027,scamwarners,"FBI, Central Bank of Nigeria"
+scam24,scam,no,email,,centralb-of.ng@live.com,,2025-11,633,scamwarners,Central Bank of Nigeria
+scam25,scam,no,email,,/+23470662350,,2025-11,283,scamwarners,Prof. Lamido B Sanusi
+scam26,scam,no,email,,centralb-of.ng@live.com,,2025-11,204,scamwarners,Central Bank of Nigeria
+scam27,scam,yes,email,email,marcorubiosecretary4@gmail.com,hisexcellencygoodluck@gmail.com,2025-11,144,scamwarners,Marco Rubio
+scam28,scam,no,email,,imf.au.org@gmail.com,1imfoffice.org@gmail.com,2025-11,216,scamwarners,International Monetary Fund Compensation Unit
+scam29,scam,yes,email,email,daniella.stazack@itanhaem.sp.gov.br,fastswift @ cyberservices . com,2025-11,436,scamwarners,BITCOIN RECOVERY EXPERT
+scam30,scam,no,email,,barbar6u9deso@netvigator.com,,2025-11,131,scamwarners,Ms Barbara Desoer
+scam31,scam,no,email,,uur943000@nifty.com,,2025-11,170,scamwarners,Recovery expert
+scam32,scam,no,email,,support@moneyback-ltd.team,,2025-11,129,scamwarners,Recovery expert
+scam33,scam,no,email,,recoveryservicecrackerwizard@outlook.com,uur943000@nifty.com,2025-11,122,scamwarners,Recovery expert
+scam34,scam,no,email,,info@omanbotanicgarden.om,,2025-11,345,scamwarners,Interpol
+scam35,scam,no,email,,nancyviola671@gmail.com,,2025-11,596,scamwarners,U.S Treasury Department
+scam36,scam,no,email,,massservice928@gmail.com,,2025-11,901,scamwarners,Foreign Secret Intelligent & National Security Service
+scam37,scam,no,email,,tomadaba_2021@yahoo.com,chiefjugeloris.rowe67@aol.com,2025-11,83,scamwarners,International fund processor
+scam38,scam,yes,email,email,diplomatericp29@gmail.com,ac7732270@gmail.com,2025-11,543,scamwarners,Central Bank of Nigeria
+scam39,scam,yes,email,whatsapp,/+1(860)7926138,el5757572@gmail.com,2025-11,437,scamwarners,Gov. Godwin Emefiele
+scam40,scam,yes,email,email,el5757572@gmail.com,ark_division-police@hotmail.com,2025-11,332,scamwarners,Godwin Emefiele
+scam41,scam,no,email,,victoria.johnson@quantuma.team,,2025-11,344,scamwarners,Recovery expert
+scam42,scam,no,email,,benbela101@gmail.com,,2025-11,213,scamwarners,International monetary fund
+scam43,scam,yes,email,email,kristalinag84@gmail.com ,benbela101@gmail.com,2025-11,251,scamwarners,International monetary fund
+scam44,scam,no,email,,b16532269@gmail.com,,2025-11,645,scamwarners,US Ambassador to Benin Republic
+scam45,scam,no,email,,fministry023@gmail.com,,2025-11,449,scamwarners,"Director Of Ministry Of Foreign Payments, MINISTRY OF FOREIGN AFFAIRS, HEADQUATERS - ABUJA"
+scam46,scam,no,email,,musa95386@gmail.com,,2025-11,438,scamwarners,Lawyer
+scam47,scam,no,email,,evangelistdoris22@gmail.com,,2025-11,114,scamwarners,Lawyer
+scam48,scam,no,email,,mrguyoliverdiplomaticdelivery@gmail.com,,2025-11,113,scamwarners,Lawyer
+scam49,scam,no,email,,contactttofficeweb@gmail.com,,2025-11,314,scamwarners,DIRECTOR CARGO DIPLOMAT DELIVERY AGENCY
+scam50,scam,no,email,,yusufhassanhassan7@gmail.com,,2025-11,22,scamwarners,Lawyer
+scam52,scam,no,email,,barristerkevinpeterbarr@gmail.com,,2025-11,108,scamwarners,Lawyer
+scam52,scam,yes,email,email,silverlynrojas94@gmail.com,edohirenefombi@gmail.com,2025-11,222,scamwarners,Busy Businessperson
+scam53,scam,no,email,,gordonrichard652@gmail.com,,2025-11,163,scamwarners,European Credit Commission
+scam54,scam,yes,email,email,officefilled02@gmail.com,danprof2014@gmail.com,2025-11,312,scamwarners,Cyber Crime Division of Nigeria Bank
+scam55,scam,yes,email,email,williamsfowler_unitednation@yahoo.com,idriskutigi.justice@gmail.com,2025-11,200,scamwarners,UN
+scam56,scam,no,email,,ecowasunit1@gmail.com,,2025-11,240,scamwarners,ecowas
+scam57,scam,no,email,,rabindollars007@gmail.com,,2025-11,178,scamwarners,Central Bank of Nigeria
+scam58,scam,no,email,,centralbknext1@gmail.com,,2025-11,184,scamwarners,UN
+scam59,scam,no,email,,affwatchdog@gmail.com,,2025-11,290,scamwarners,African Union
+scam60,scam,no,email,,test02@litesnavi.net,,2025-11,169,scamwarners,Dr. Ngozi Okonjo Iweala
