@@ -4,10 +4,10 @@
 A labeled dataset of recovery scam communications collected from public sources for fraud detection research.
 
 ## Dataset Statistics
-- Total samples: [X]
-- Scam samples: [X]
-- Legitimate samples: [X]
-- Collection period: [dates]
+- Current Total samples: 60
+- Current Scam samples: 60
+- Current Legitimate samples: 0
+- Collection period: 2025/11
 
 ## Features
 - Text communications
@@ -16,7 +16,6 @@ A labeled dataset of recovery scam communications collected from public sources 
 
 ## Citation
 If you use this dataset, please cite:
-[Your citation]
 
 ## License
 Creative Commons Attribution 4.0 International (CC BY 4.0)

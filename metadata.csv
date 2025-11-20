@@ -1,0 +1,22 @@
+file_id,label,recovery_referral,initial_outreach,redirect_platform,primary_scammer,referrer,date_collected,word_count,source_platform,impersonating
+scam01,scam,yes,reddit,telegram,trusttechhub,gamechaseralphio,2025-11,100,reddit,recovery expert
+scam02,scam,yes,email,email,imf.au.org@gmail.com,1imfoffice.org@gmail.com,2025-11,216,scamwarners,international monetary fund
+scam03,scam,yes,email,email,brotherhoodilluminati485@gmail.com,illuminati brotherhood,2025-11,113,reddit,illuminati
+scam04,scam,no,website,,wealth-assistancecenter.com,,2025-11,49,reddit,recovery expert
+scam05,scam,no,email,,"www.fbiworld.gov_usa@hotmail.com,  centralb-of.ng@live.com",,2025-11,2147,scamwarners,"fbi, central bank of nigeria"
+scam06,scam,yes,email,email,Cryptoassetsrecovery@protonmail.com,joyokomino@lagosstate.gov.ng,2025-11,216,scamwarners,recovery expert
+scam07,scam,no,email,email,micheal@lostrecovered.com,,2025-11,302,scamwarners,MetaTrader Support Team
+scam08,scam,no,email,email,ubabankplcnig55@gmail.com,https://www.westernunion.com/ng/en/home.html,2025-11,733,scamwarners,Uba Bank
+scam09,scam,no,email,email,mr.johnsinger01@gmail.com,,2025-11,,scamwarners,UN secretary
+scam10,scam,,,,,,2025-11,,,
+scam11,scam,,,,,,2025-11,,,
+scam12,scam,,,,,,2025-11,,,
+scam13,scam,,,,,,2025-11,,,
+scam14,scam,,,,,,2025-11,,,
+scam15,scam,,,,,,2025-11,,,
+scam16,scam,,,,,,2025-11,,,
+scam17,scam,,,,,,2025-11,,,
+scam18,scam,,,,,,2025-11,,,
+scam19,scam,,,,,,2025-11,,,
+scam19,scam,,,,,,2025-11,,,
+scam20,scam,,,,,,2025-11,,,
